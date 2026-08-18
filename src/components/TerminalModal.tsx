@@ -18,7 +18,7 @@ export function TerminalModal({ open, onClose, onMatrix, onSnake }: TerminalProp
   const [lines, setLines] = useState<Line[]>([
     {
       type: "output",
-      text: "Welcome to Wahyu Dwiyanto's Interactive Dev Terminal!\nType help to view available commands or click quick chips below.",
+      text: "Welcome to Wahyu Dwiyanto, S.Kom's Interactive Dev Terminal!\nType help to view available commands or click quick chips below.",
     },
   ]);
   const [input, setInput] = useState("");

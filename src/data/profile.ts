@@ -1,5 +1,5 @@
 export const profile = {
-  name: "Wahyu Dwiyanto",
+  name: "Wahyu Dwiyanto, S.Kom",
   initials: "WD",
   photo: "/profile.png",
   title: "Full-Stack Developer",
@@ -18,9 +18,9 @@ export const profile = {
   summary:
     "Lulusan S1 Informatika dari Universitas Ahmad Dahlan dengan minat pada pengembangan perangkat lunak, pengembangan web, dan keamanan sistem. Berpengalaman dalam pengembangan website, perancangan antarmuka pengguna, dan pengujian sistem melalui proyek akademik serta magang. Cepat belajar, mudah beradaptasi, dan terbiasa bekerja mandiri maupun dalam tim.",
   social: {
-    github: "https://github.com/wahyudwiyanto",
+    github: "https://github.com/Wahyuuu194",
     linkedin: "https://linkedin.com/in/wahyu-dwiyanto",
-    instagram: "https://instagram.com/wahyudwiyanto",
+    instagram: "https://www.instagram.com/whhyy_24/",
   },
   stats: [
     { label: "Proyek Selesai", value: 4, suffix: "+" },

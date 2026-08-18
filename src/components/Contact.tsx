@@ -32,8 +32,8 @@ export function Contact() {
               { Icon: Mail, label: profile.email, href: `mailto:${profile.email}` },
               { Icon: Phone, label: profile.phone, href: `tel:${profile.phone.replace(/\s/g, "")}` },
               { Icon: LinkedInIcon, label: "LinkedIn", href: profile.social.linkedin },
-              { Icon: GitHubIcon, label: "GitHub", href: profile.social.github },
-              { Icon: InstagramIcon, label: "Instagram", href: profile.social.instagram },
+              { Icon: GitHubIcon, label: "GitHub @Wahyuuu194", href: profile.social.github },
+              { Icon: InstagramIcon, label: "Instagram @whhyy_24", href: profile.social.instagram },
             ].map(({ Icon, label, href }) => (
               <a
                 key={label}
